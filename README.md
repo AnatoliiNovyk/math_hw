@@ -1,7 +1,6 @@
 # Mathematics for Computer Science 2.0
-
 ## Master of Science: Cyber Security
-
+________________________
 
 
 

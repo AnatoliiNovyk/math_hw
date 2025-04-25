@@ -12,4 +12,4 @@
 
 ## SCIENTIFIC WORKS
 
-- ### REVIEW-1: [on Colab]((https://colab.research.google.com/drive/1FBMmihKhv-WMX-QGNMLR1xhPEYWeGNn-?hl=uk#scrollTo=JURa9AobLGjy "on Colab")
+- ### REVIEW-1: [on Colab](https://colab.research.google.com/drive/1FBMmihKhv-WMX-QGNMLR1xhPEYWeGNn-?hl=uk#scrollTo=JURa9AobLGjy "on Colab")
